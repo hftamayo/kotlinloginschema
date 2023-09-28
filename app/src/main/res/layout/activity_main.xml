@@ -66,6 +66,7 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
+                android:id="@+id/btnLogin"
                 android:text="@string/btn_login_label_en"
                 android:textSize="18sp"
                 android:layout_marginTop="30dp"
