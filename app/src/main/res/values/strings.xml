@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Kotlinloginschema</string>
+    <string name="lbl_login_en">Login</string>
+    <string name="hint_loginText_en">please type an username</string>
+    <string name="lbl_password_en">Password</string>
+    <string name="hint_passwordText_en">enter your password</string>
+    <string name="btn_login_label_en">Login</string>
 </resources>
